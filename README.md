@@ -1,4 +1,7 @@
 # Snake-in-Dream
+<img src="https://github.com/S3lfie1/Snake-in-Dream/blob/master/other/1.jpg"/>
+<img src="https://github.com/S3lfie1/Snake-in-Dream/blob/master/other/2.jpg"/>
+
 Snake in Dream [C# Android]
 My asset is too large to upload it here. 
 Download Asset here:
